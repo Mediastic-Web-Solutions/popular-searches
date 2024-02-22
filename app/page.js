@@ -9,7 +9,7 @@ export default function Home() {
 
       
        <a className=" inline-block " href="">
-          <Image src='/zolalogo.png' width={120} height={30} ></Image>
+          <Image src='/zolalogo.png' width={120} height={30}></Image>
       </a> 
       </div>
 
